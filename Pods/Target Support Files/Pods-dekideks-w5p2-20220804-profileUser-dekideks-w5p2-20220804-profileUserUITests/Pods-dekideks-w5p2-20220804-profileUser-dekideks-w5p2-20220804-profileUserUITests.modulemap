@@ -1,0 +1,6 @@
+framework module Pods_dekideks_w5p2_20220804_profileUser_dekideks_w5p2_20220804_profileUserUITests {
+  umbrella header "Pods-dekideks-w5p2-20220804-profileUser-dekideks-w5p2-20220804-profileUserUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
